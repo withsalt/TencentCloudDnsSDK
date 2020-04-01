@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TencentCloudDnsSDK.Test", "TencentCloudDnsSDK.Test\TencentCloudDnsSDK.Test.csproj", "{C2DABFE7-C5B3-4441-A0FD-9A3FBEE31685}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TencentCloudDnsSDK", "TencentCloudDnsSDK\TencentCloudDnsSDK.csproj", "{FA2D1087-9C9C-48D4-977D-8C3A2DAE45D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2DABFE7-C5B3-4441-A0FD-9A3FBEE31685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DABFE7-C5B3-4441-A0FD-9A3FBEE31685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DABFE7-C5B3-4441-A0FD-9A3FBEE31685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DABFE7-C5B3-4441-A0FD-9A3FBEE31685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2D1087-9C9C-48D4-977D-8C3A2DAE45D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2D1087-9C9C-48D4-977D-8C3A2DAE45D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2D1087-9C9C-48D4-977D-8C3A2DAE45D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2D1087-9C9C-48D4-977D-8C3A2DAE45D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD46B46-9DE4-4C89-9667-25CE632CAFED}
+	EndGlobalSection
+EndGlobal
