@@ -6,15 +6,23 @@
     <Authors>withsalt</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>腾讯云DNS解析SDK。</Description>
-    <PackageLicenseFile></PackageLicenseFile>
+    <PackageLicenseFile>license.txt</PackageLicenseFile>
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <FileVersion>1.0.1.0</FileVersion>
     <Version>1.0.1</Version>
     <UserSecretsId>147a7913-3fbf-44fb-8995-d59ed0309045</UserSecretsId>
+    <Copyright>withsalt</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\license.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
