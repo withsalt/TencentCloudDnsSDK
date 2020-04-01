@@ -4,7 +4,9 @@
 ### How to use
 1. 安装NuGet包：`TencentCloudDnsSDK`
 
-2. 编写代码
+2. 腾讯云解析[API概览](https://cloud.tencent.com/document/product/302/4031 "API概览")
+
+3. 编写代码
 ```csharp
 static async Task Main(string[] args)
 {
